@@ -24,10 +24,10 @@ The file 'test_SVAD.py' is the main function for calling the algorithm.
   - Tensorflow-gpu:1.4.0  (Backend of Keras)
     > https://www.tensorflow.org/
 
-  - Librosa: 0.6.1 (for audio analysis such as laod,STFT, resampling)
+  - Librosa: 0.6.1 (for audio analysis such as STFT, resampling)
     > http://librosa.github.io/librosa/
 
-  - madmam: 0.15.1
+  - madmam: 0.15.1 (for audio loading)
     > http://madmom.readthedocs.io/en/latest/index.html   
 
   - ffmpeg
